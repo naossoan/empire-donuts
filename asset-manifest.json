@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/empire_donuts/static/css/main.c81896f4.chunk.css",
-    "main.js": "/empire_donuts/static/js/main.c620c436.chunk.js",
-    "main.js.map": "/empire_donuts/static/js/main.c620c436.chunk.js.map",
-    "runtime-main.js": "/empire_donuts/static/js/runtime-main.b69f65f9.js",
-    "runtime-main.js.map": "/empire_donuts/static/js/runtime-main.b69f65f9.js.map",
-    "static/css/2.31461e4f.chunk.css": "/empire_donuts/static/css/2.31461e4f.chunk.css",
-    "static/js/2.8c2a1f1d.chunk.js": "/empire_donuts/static/js/2.8c2a1f1d.chunk.js",
-    "static/js/2.8c2a1f1d.chunk.js.map": "/empire_donuts/static/js/2.8c2a1f1d.chunk.js.map",
-    "static/js/3.13bf3ba6.chunk.js": "/empire_donuts/static/js/3.13bf3ba6.chunk.js",
-    "static/js/3.13bf3ba6.chunk.js.map": "/empire_donuts/static/js/3.13bf3ba6.chunk.js.map",
-    "index.html": "/empire_donuts/index.html",
-    "static/css/2.31461e4f.chunk.css.map": "/empire_donuts/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.c81896f4.chunk.css.map": "/empire_donuts/static/css/main.c81896f4.chunk.css.map",
-    "static/js/2.8c2a1f1d.chunk.js.LICENSE.txt": "/empire_donuts/static/js/2.8c2a1f1d.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/empire_donuts/static/media/JosefinSans-Regular.c2462bfe.ttf"
+    "main.css": "/empire-donuts/static/css/main.45d98d04.chunk.css",
+    "main.js": "/empire-donuts/static/js/main.c620c436.chunk.js",
+    "main.js.map": "/empire-donuts/static/js/main.c620c436.chunk.js.map",
+    "runtime-main.js": "/empire-donuts/static/js/runtime-main.0ce4bd1e.js",
+    "runtime-main.js.map": "/empire-donuts/static/js/runtime-main.0ce4bd1e.js.map",
+    "static/css/2.31461e4f.chunk.css": "/empire-donuts/static/css/2.31461e4f.chunk.css",
+    "static/js/2.8c2a1f1d.chunk.js": "/empire-donuts/static/js/2.8c2a1f1d.chunk.js",
+    "static/js/2.8c2a1f1d.chunk.js.map": "/empire-donuts/static/js/2.8c2a1f1d.chunk.js.map",
+    "static/js/3.13bf3ba6.chunk.js": "/empire-donuts/static/js/3.13bf3ba6.chunk.js",
+    "static/js/3.13bf3ba6.chunk.js.map": "/empire-donuts/static/js/3.13bf3ba6.chunk.js.map",
+    "index.html": "/empire-donuts/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/empire-donuts/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.45d98d04.chunk.css.map": "/empire-donuts/static/css/main.45d98d04.chunk.css.map",
+    "static/js/2.8c2a1f1d.chunk.js.LICENSE.txt": "/empire-donuts/static/js/2.8c2a1f1d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/empire-donuts/static/media/JosefinSans-Regular.c2462bfe.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.b69f65f9.js",
+    "static/js/runtime-main.0ce4bd1e.js",
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.8c2a1f1d.chunk.js",
-    "static/css/main.c81896f4.chunk.css",
+    "static/css/main.45d98d04.chunk.css",
     "static/js/main.c620c436.chunk.js"
   ]
 }
