@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/empire-donuts/static/css/main.45d98d04.chunk.css",
-    "main.js": "/empire-donuts/static/js/main.c620c436.chunk.js",
-    "main.js.map": "/empire-donuts/static/js/main.c620c436.chunk.js.map",
+    "main.js": "/empire-donuts/static/js/main.cc58a18b.chunk.js",
+    "main.js.map": "/empire-donuts/static/js/main.cc58a18b.chunk.js.map",
     "runtime-main.js": "/empire-donuts/static/js/runtime-main.0ce4bd1e.js",
     "runtime-main.js.map": "/empire-donuts/static/js/runtime-main.0ce4bd1e.js.map",
     "static/css/2.31461e4f.chunk.css": "/empire-donuts/static/css/2.31461e4f.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.31461e4f.chunk.css",
     "static/js/2.8c2a1f1d.chunk.js",
     "static/css/main.45d98d04.chunk.css",
-    "static/js/main.c620c436.chunk.js"
+    "static/js/main.cc58a18b.chunk.js"
   ]
 }
