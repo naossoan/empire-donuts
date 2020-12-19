@@ -1,38 +1,52 @@
-.App {
-  text-align: center;
+@font-face {
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Josefin Sans'),
+    url('./JosefinSans-Regular.ttf') format('truetype');
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+  background-color: #d84c15;
+  font-family: 'Josefin Sans';
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+footer {
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+#robot {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.customOrange {
+  color: #d84c15;
+}
+
+.teal {
+  color: #9fd9da;
+}
+
+.bgTeal {
+  background-color: #9fd9da;
+}
+
+.darkTeal {
+  color: #0f5e65;
+}
+
+.bgDarkTeal {
+  background-color: #0f5e65;
+}
+
+.bgHoverTeal:hover {
+  background-color: #9fd9da;
+}
+
+.textarea {
+  height: 100px;
 }
