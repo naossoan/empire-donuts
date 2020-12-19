@@ -45,7 +45,7 @@ const Contact = () => {
             </label>
             <input
               className='pa2 input-reset ba bgHoverTeal w-100'
-              type='phone'
+              type='number'
               name='phone'
               id='phone'
               placeholder='Please enter your phone.'
@@ -55,9 +55,8 @@ const Contact = () => {
             <label className='db fw6 lh-copy f6' for='password'>
               Comments
             </label>
-            <input
+            <textarea
               className='pa2 input-reset ba bgHoverTeal w-100 textarea'
-              type='textarea'
               name='textarea'
               id='textarea'
               placeholder='Please enter your comments or questions.'

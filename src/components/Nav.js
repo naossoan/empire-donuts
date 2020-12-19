@@ -5,7 +5,9 @@ const Nav = ({ setRoute }) => {
   return (
     <nav class=''>
       <div class='tc mb3 bg-white'>
-        <img src='./img/empire_logo.jpg' />
+        <a class='pointer' onClick={() => setRoute('home')}>
+          <img src='./img/empire_logo.jpg' />
+        </a>
       </div>
 
       <div class='tc pb3'>
